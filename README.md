@@ -17,7 +17,7 @@
 1. Create a WakaTime account (https://wakatime.com/signup)
 1. In your account settings, copy the existing WakaTime API Key (https://wakatime.com/settings/api-key)
 
-### Project setup
+### Project setup 
 
 1. Fork this repo
 1. Edit the [environment variable](https://github.com/matchai/waka-box/blob/master/.github/workflows/schedule.yml#L13-L15) in `.github/workflows/schedule.yml`:
